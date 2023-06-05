@@ -1,6 +1,6 @@
 # Basic-Test-Cases-For-SnapChat
 
-## Registration/Login Page:
+## 1. Registration/Login Page:
 
 a. Verify that users can successfully register with valid credentials.
 
@@ -14,7 +14,7 @@ e. Verify that appropriate error messages are displayed for invalid login attemp
 
 f. Verify that the registration page includes required fields such as name, email, and password.
 
-## Camera and Photo Sharing:
+## 2. Camera and Photo Sharing:
 
 a. Verify that the camera functionality works correctly and allows users to take photos.
 
@@ -28,7 +28,7 @@ e. Verify that users can share photos with their selected contacts or to their s
 
 f. Verify that photos are displayed correctly in the chat or story section.
 
-## Chat and Messaging:
+## 3. Chat and Messaging:
 
 a. Verify that users can send text messages to their contacts.
 
@@ -42,7 +42,7 @@ e. Verify that users can block/unblock other users and that blocked users cannot
 
 f. Verify that users can delete individual messages or entire conversations.
 
-## Discover and Stories:
+## 4. Discover and Stories:
 
 a. Verify that the Discover section displays trending stories and content.
 
@@ -56,7 +56,7 @@ e. Verify that users can reply to stories or send them to their friends.
 
 f. Verify that users can search for specific stories or accounts.
 
-## Privacy and Security:
+## 5. Privacy and Security:
 
 a. Verify that users can adjust their privacy settings (e.g., who can view their stories, who can send them messages).
 
@@ -68,7 +68,7 @@ d. Verify that user data is securely stored and protected.
 
 e. Verify that the app complies with relevant data protection and privacy regulations.
 
-## Performance and Compatibility:
+## 6. Performance and Compatibility:
 
 a. Verify that the app functions smoothly without crashes or freezes.
 
@@ -80,7 +80,7 @@ d. Verify that the app uses an optimal amount of device resources (CPU, memory).
 
 e. Verify that the app loads and displays content quickly.
 
-## Geolocation and Filters:
+## 7. Geolocation and Filters:
 
 a. Verify that geolocation features accurately identify the user's location.
 
@@ -92,7 +92,7 @@ d. Verify that users can add geolocation stickers or tags to their snaps.
 
 e. Verify that the app respects user privacy regarding geolocation information.
 
-## Video Calling and Group Chats:
+## 8. Video Calling and Group Chats:
 
 a. Verify that users can initiate and receive video calls.
 
@@ -104,7 +104,7 @@ d. Verify that users can create group chats and add multiple participants.
 
 e. Verify that group chats support text messages, photo sharing, and video calls.
 
-## Discover Subscriptions:
+## 9. Discover Subscriptions:
 
 a. Verify that users can subscribe to specific publishers or content creators.
 
@@ -114,7 +114,7 @@ c. Verify that users receive notifications for new content from subscribed accou
 
 d. Verify that users can manage their subscriptions (unsubscribe, adjust settings).
 
-## Memories and Cloud Backup:
+## 10. Memories and Cloud Backup:
 
 a. Verify that users can save snaps to their Memories for future viewing.
 
@@ -124,7 +124,7 @@ c. Verify that users can back up their Memories to the cloud.
 
 d. Verify that restored snaps or memories display correctly and retain their original content.
 
-## Discover Games and Augmented Reality (AR):
+## 11. Discover Games and Augmented Reality (AR):
 
 a. Verify that users can access and play interactive games within Snapchat.
 
@@ -134,7 +134,7 @@ c. Verify that AR features, such as face filters and 3D effects, work accurately
 
 d. Verify that users can discover and try new AR experiences from different brands or developers.
 
-## Advertising and Sponsored Content:
+## 12. Advertising and Sponsored Content:
 
 a. Verify that sponsored content and ads are displayed appropriately within the app.
 
@@ -144,7 +144,7 @@ c. Verify that sponsored links or call-to-actions lead to the intended destinati
 
 d. Verify that ads do not negatively impact the overall user experience or app performance.
 
-## Accessibility and Localization:
+## 13. Accessibility and Localization:
 
 a. Verify that the app supports accessibility features (e.g., screen readers, text resizing, color contrast).
 
